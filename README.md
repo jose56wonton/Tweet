@@ -15,11 +15,11 @@ On the front end we learned a lot about flask before recognizing ReactJs as a be
 ## Us
 
 Check out the creators at their respective pages
-* [Danial]()
+* [Daniel]()
 * [Isaac](https://github.com/isaac34mi)
 * [Josh](https://github.com/jose56wonton)
 * [Victor](https://github.com/pcheng11)
 
 # Hosting
 
-Check it out [here!]()
+Check it out [here!](https://tweet-jw.herokuapp.com/)
