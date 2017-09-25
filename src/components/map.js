@@ -23,17 +23,17 @@ class Map extends Component {
     }else{
       dots = null;
     }
-    
-    return(
-       <div className="map">
-        <GoogleMap
-        defaultCenter={this.props.center} 
-        defaultZoom={this.props.zoom}
-        defaultOptions={{ styles: styles }}>
+    /*AIzaSyB2V60tMfyFTpYK2h9ZelJtMru1DDEsS4U*/
+
+    return <div className="map">
+        <GoogleMap 
+          bootstrapURLKeys={{ key: "AIzaSyB2V60tMfyFTpYK2h9ZelJtMru1DDEsS4U"}}
+          defaultCenter={this.props.center}
+          defaultZoom={this.props.zoom} 
+          defaultOptions={{ styles: styles }}>
           {dots}
         </GoogleMap>
-      </div>
-    );
+      </div>;
   }
 }
 
