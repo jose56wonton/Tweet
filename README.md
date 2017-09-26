@@ -23,3 +23,5 @@ Check out the creators at their respective pages
 # Hosting
 
 Check it out [here!](https://tweet-jw.herokuapp.com/)
+
+P.S. It will take the site around 15s to load since it is hosted for free on Heroku :)
